@@ -1,0 +1,3 @@
+git add .
+git commit -m "fix vercel build"
+git push
